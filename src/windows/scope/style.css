@@ -1,0 +1,6 @@
+.selected-scope{
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    pointer-events: none; 
+}
